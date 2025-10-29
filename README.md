@@ -7,7 +7,6 @@
       providing fastq to dimensionality reduction to downstream analysis of neurodegeneration 
       in large-scale (>100 sample, >500k nuclei/cell) single-cell multiome atlases. For this I created an open-science single-cell processing pipeline for anyone to use <a href="https://github.com/NIH-CARD/scMAVERICS">here</a>. <br><br>
     I earned my <a href="https://escholarship.org/uc/item/763583b7">Ph.D. in Biophysics</a> from the <a href="andino.ucsf.edu">Andino lab</a> at <a href="ucsf.edu">UCSF</a>. As a postdoc in <a href="https://qveu.github.io/QVEU/index.html">Dolan lab</a> I worked with Enterovirus D68, studying how the adaptations from evolutionary pathways manifest as physical mechanisms, as well as biophysical selection by deep mutational scanning.  </i></p>
-    <p>Images shown are generated for present and past projects.</p>
     </pI>
     </center>
 
