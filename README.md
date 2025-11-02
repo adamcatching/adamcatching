@@ -9,5 +9,5 @@
     I earned my <a href="https://escholarship.org/uc/item/763583b7">Ph.D. in Biophysics</a> from the <a href="andino.ucsf.edu">Andino lab</a> at <a href="ucsf.edu">UCSF</a>. As a postdoc in <a href="https://qveu.github.io/QVEU/index.html">Dolan lab</a> I worked with Enterovirus D68, studying how the adaptations from evolutionary pathways manifest as physical mechanisms, as well as biophysical selection by deep mutational scanning.  </i></p>
     </pI>
     </center>
-
+    
 ![adamcatching's Stats](https://github-readme-stats.vercel.app/api?username=adamcatching&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
